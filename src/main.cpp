@@ -37,7 +37,7 @@ SENSORS::SENSORS() {
     this->temperature = 0;
     this->humidityair = 0;
     this->humiditysoil = 0;
-    this->lux = 53;
+    this->lux = 0;
 }
 SENSORS::~SENSORS() {}
 
